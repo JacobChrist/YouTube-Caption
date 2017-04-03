@@ -1,5 +1,5 @@
 # YouTube-Caption
-YoutTube Caption API Python example converted to Python 3
+YouTube Caption API Python example converted to Python 3
 
 Successful attempted at extracting closed caption information from Siraj Raval's ML videos.
 The ultimate goal of this extraction is to make a Sirajbot so that we can all have our own personal Siraj.
