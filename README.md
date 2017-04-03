@@ -4,6 +4,13 @@ YouTube Caption API Python example converted to Python 3
 Successful attempted at extracting closed caption information from Siraj Raval's ML videos.
 The ultimate goal of this extraction is to make a Sirajbot so that we can all have our own personal Siraj.
 
+The original code is found in the download call for this API:
+
+https://developers.google.com/youtube/v3/docs/captions
+
+To run this code you need to get OAuth2 credentials from google:
+
+https://console.developers.google.com/apis/credentials
 
 Usage examples:
 
