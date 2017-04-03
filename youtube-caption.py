@@ -161,8 +161,8 @@ if __name__ == "__main__":
 
 
   args = argparser.parse_args()
-  print("args: ", args)
-  print()
+  #print("args: ", args)
+  #print()
 
   if (args.action in ('upload', 'list', 'all')):
     if not args.videoid:
